@@ -1,0 +1,5 @@
+{
+  "name": "chmod Trainer",
+  "description": "An interactive web application to learn and practice the chmod command in Linux/Unix. Features lessons, converters, exercises, and an AI-powered chatbot to translate between natural language and chmod commands.",
+  "requestFramePermissions": []
+}
